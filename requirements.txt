@@ -1,0 +1,15 @@
+streamlit
+requests
+
+chromadb
+sentence-transformers
+torch
+torchvision
+numpy
+
+pymupdf
+langchain-text-splitters
+
+pydantic
+
+pandas
